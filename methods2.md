@@ -1,1 +1,2 @@
-clarify quantiles used in BMI
+Clarify quantiles for BMI summary
+BMI = Mass/(Height^2)
